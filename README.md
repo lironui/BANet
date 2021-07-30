@@ -30,7 +30,7 @@ Fig. 1.  The structure of (a) the proposed MAResU-Net and (b) the attention bloc
 
 Result:
 ------- 
-The result on the [UAVid dataset](https://uavid.nl/) can seen from [here](https://competitions.codalab.org/competitions/25224#results), where the user name is **AlexWang**.
+The result on the [UAVid dataset](https://uavid.nl/) can seen from [here, where the user name is **AlexWang**](https://competitions.codalab.org/competitions/25224#results).
 ![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/result.png)  
 Fig. 2. Visualization of results on the Vaihingen.
 
