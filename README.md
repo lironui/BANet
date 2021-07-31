@@ -25,11 +25,12 @@ imageio >= 2.8.0
 
 Network:
 ------- 
-![network](https://github.com/lironui/MAResU-Net/blob/main/Fig/network.png)  
-Fig. 1.  The structure of (a) the proposed MAResU-Net and (b) the attention block.
+![network](https://github.com/lironui/BANet/blob/main/figure/network.png)  
+Fig. 1.  The overall architecture of BANet.
 
 Result:
 ------- 
+The result on the [UAVid dataset](https://uavid.nl/) can seen from [here, where the user name is **AlexWang**](https://competitions.codalab.org/competitions/25224#results):
 
 | Method    | building | tree     | clutter   | road     | vegetation | static car | moving car | human    | mIoU     | 
 |-----------|----------|----------|-----------|----------|------------|------------|------------|----------|----------| 
@@ -41,7 +42,9 @@ Result:
 | BANet     | 85.4     | **78.9** | **66.6**  | **80.7** | 62.1       | 52.8       | **69.3**   | **21.0** | **64.6** | 
 
 
-The result on the [UAVid dataset](https://uavid.nl/) can seen from [here, where the user name is **AlexWang**](https://competitions.codalab.org/competitions/25224#results).
-![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/result.png)  
-Fig. 2. Visualization of results on the Vaihingen.
+![Result](https://github.com/lironui/BANet/blob/main/figure/UAVid%20-%20val.png)  
+Fig. 2. The experimental results on the UAVid validation set. The first column illustrates the input RGB images, the second column depicts the ground reference and the third column shows the predictions of our BANet.
+
+![Result](https://github.com/lironui/BANet/blob/main/figure/UAVid.png)  
+Fig. 3.  The experimental results on the UAVid test set. The first column illustrates the input RGB images, the second column depicts the outputs of MSD and the third column shows the predictions of our BANet. 
 
