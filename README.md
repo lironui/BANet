@@ -30,11 +30,18 @@ Fig. 1.  The structure of (a) the proposed MAResU-Net and (b) the attention bloc
 
 Result:
 ------- 
+
+| Method    | building | tree     | clutter   | road     | vegetation | static car | moving car | human    | mIoU     | 
+|-----------|----------|----------|-----------|----------|------------|------------|------------|----------|----------| 
+| MSD       | 79.8     | 74.5     | 57.0      | 74.0     | 55.9       | 32.1       | 62.9       | 19.7     | 57.0     | 
+| Fast-SCNN | 75.7     | 71.5     | 44.2      | 61.6     | 43.4       | 19.5       | 51.6       | 0.0      | 45.9     | 
+| BiSeNet   | **85.7** | 78.3     | 64.7      | 61.1     | **77.3**   | **63.4**   | 48.6       | 17.5     | 61.5     | 
+| SwiftNet  | 85.3     | 78.2     | 64.1      | 61.5     | 76.4       | 62.1       | 51.1       | 15.7     | 61.1     | 
+| SwiftNet  | 85.3     | 78.2     | 44.1      | 61.4     | 43.4       | 21.0       | 52.6       | 3.6      | 47.0     | 
+| BANet     | 85.4     | **78.9** | **66.6**  | **80.7** | 62.1       | 52.8       | **69.3**   | **21.0** | **64.6** | 
+
+
 The result on the [UAVid dataset](https://uavid.nl/) can seen from [here, where the user name is **AlexWang**](https://competitions.codalab.org/competitions/25224#results).
 ![Result](https://github.com/lironui/MAResU-Net/blob/main/Fig/result.png)  
 Fig. 2. Visualization of results on the Vaihingen.
 
-Complexity:
-------- 
-![Complexity](https://github.com/lironui/MAResU-Net/blob/main/Fig/complexity.png)  
-Fig. 3. The (a) computation requirement and (b) memory requirement of the raw dot-product attention mechanism and the proposed linear attention mechanism under different input sizes. Please notice that the figure is in log scale.
