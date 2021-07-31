@@ -2,7 +2,7 @@
 
 In this repository, we implement the Bilateral Awareness Network which contains a dependency path and a texture path to fully capture the long-range relationships and fine-grained details in very fine resolution (VFR) urban scene images . 
 
-The detailed results can be seen in the [Multi-stage Attention ResU-Net for Semantic Segmentation of Fine-Resolution Remote Sensing Images](https://arxiv.org/ftp/arxiv/papers/2106/2106.12413.pdf).
+The detailed results can be seen in the [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://arxiv.org/ftp/arxiv/papers/2106/2106.12413.pdf).
 
 The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->A modified version of U-Net.
