@@ -21,7 +21,7 @@ PyTorch >= 1.3.1
 sklearn >= 0.20.4
 tqdm >= 4.46.1
 imageio >= 2.8.0
-timm
+timm >= 0.4.5
 ```
 
 Network:
