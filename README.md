@@ -2,7 +2,7 @@
 
 In this repository, we implement the Bilateral Awareness Network which contains a dependency path and a texture path to fully capture the long-range relationships and fine-grained details in very fine resolution (VFR) urban scene images . 
 
-The detailed results can be seen in the [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://arxiv.org/ftp/arxiv/papers/2106/2106.12413.pdf).
+The detailed results can be seen in the [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065).
 
 The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->A modified version of U-Net.
@@ -11,7 +11,7 @@ The related repositories include:
 
 If our code is helpful to you, please cite:
 
-`Wang, L., Li, R., Wang, D., Duan, C., Wang, T., & Meng, X. (2021). Transformer Meets Convolution: A Bilateral Awareness Net-work for Semantic Segmentation of Very Fine Resolution Ur-ban Scene Images. arXiv preprint arXiv:2106.12413.`
+`Wang, L.; Li, R.; Wang, D.; Duan, C.; Wang, T.; Meng, X. Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images. Remote Sensing. 2021, 13, 3065. https://doi.org/10.3390/rs13163065`
 
 Requirements：
 ------- 
