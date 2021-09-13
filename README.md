@@ -1,5 +1,7 @@
 #  Bilateral Awareness Network
 
+⭐ Welcome to my [HomePage](https://lironui.github.io/) ⭐ 
+
 In this repository, we implement the Bilateral Awareness Network which contains a dependency path and a texture path to fully capture the long-range relationships and fine-grained details in very fine resolution (VFR) urban scene images . 
 
 The detailed results can be seen in the [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065).
