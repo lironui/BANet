@@ -1,6 +1,6 @@
 #  Bilateral Awareness Network
 
-⭐ Welcome to my [HomePage](https://lironui.github.io/) ⭐ 
+⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
 In this repository, we implement the Bilateral Awareness Network which contains a dependency path and a texture path to fully capture the long-range relationships and fine-grained details in very fine resolution (VFR) urban scene images . 
 
