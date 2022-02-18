@@ -1,4 +1,4 @@
-#  Bilateral Awareness Network
+#  Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images
 
 ⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
