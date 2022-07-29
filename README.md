@@ -6,6 +6,8 @@ In this repository, we implement the Bilateral Awareness Network which contains 
 
 The detailed results can be seen in the [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065).
 
+The training and testing code can refer to [GeoSeg](https://github.com/WangLibo1995/GeoSeg).
+
 The related repositories include:
 * [MACU-Net](https://github.com/lironui/MACU-Net)->A modified version of U-Net.
 * [MAResU-Net](https://github.com/lironui/MAResU-Net)->A ResNet-based network with attention mechanism.
